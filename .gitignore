@@ -1,9 +1,8 @@
 model/*
-img/images/*
-img/masks/*
+img/*
+totest/*
 *.pth
 __pycache__
-totest/*
 plt-test/*
 plt/*
-
+.DS_Store
